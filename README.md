@@ -1,16 +1,48 @@
-## Hi there 👋
+### Hi, I’m Sujit 👋  
+**Sujit Jitendra Kakade**  
 
-<!--
-**Sujit-SK/Sujit-SK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with 4.5+ years of experience building scalable
+enterprise web and mobile applications using **Angular, ASP.NET Web API, SQL Server, and Ionic**.
+Experienced in **MIS portal** deployed
+across PAN India.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I Do
+- 🚀 Build enterprise-grade web applications using **Angular & ASP.NET Web API**
+- 📱 Develop cross-platform mobile apps with **Ionic + Angular**
+- 🔐 Design secure REST APIs with authentication & authorization
+
+---
+
+### 🛠 Tech Stack
+
+**Programming Languages**  
+C#, TypeScript, JavaScript, Java, Python, C  
+
+**Frontend**  
+Angular, AngularJS, HTML5, CSS3, Bootstrap, PrimeNG  
+
+**Backend**  
+ASP.NET Web API, RESTful APIs, Authentication, Authorization  
+
+**Mobile**  
+Ionic + Angular,
+
+**Database & Tools**  
+SQL Server, MySQL, Oracle PL/SQL, Git, Azure DevOps, Visual Studio  
+
+---
+
+### 🌱 Currently Learning
+- Machine Learning with Python
+- System design & scalable architectures
+
+---
+
+### 🔗 Connect With Me
+- 💻 GitHub: [github.com/Sujit-SK](https://github.com/Sujit-SK/)
+
+
+
+
