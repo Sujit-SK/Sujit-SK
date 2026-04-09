@@ -3,8 +3,7 @@
 
 Software Developer with 4.5+ years of experience building scalable
 enterprise web and mobile applications using **Angular, ASP.NET Web API, SQL Server, and Ionic**.
-Experienced in **MIS portal** deployed
-across PAN India.
+Experienced in **MIS portal**
 
 ---
 
